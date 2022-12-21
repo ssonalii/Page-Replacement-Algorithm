@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1669739347 source:c:\users\ayush thakur\onedrive\desktop\workspace\c\vms\page_replacement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<limits.h>
+
